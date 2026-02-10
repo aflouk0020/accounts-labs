@@ -10,11 +10,5 @@ public class AccountsApplication {
 		SpringApplication.run(AccountsApplication.class, args);
 	}
 
-// Testing Jenkins webhook from accounts-labs
-	
-	
-	// testing 
-	
-	//test
 	
 }
